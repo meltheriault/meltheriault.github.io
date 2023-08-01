@@ -48,7 +48,7 @@ svg,img { max-width: 100%; height: auto; }
   2. >>> Banner Style
 ----------------------------------------------------------------*/
 .ds-banner-heroimage{ max-width: 100%; height: auto; }
-.ds-banner-section{ text-align: center; margin-bottom: var(--margin-120);  }
+.ds-banner-section{ text-align: center; margin-bottom: var(--margin-94);  }
 .ds-banner-section h1{font-family: 'Inter', sans-serif; font-size: 1.5rem; line-height: var(--font_36); margin-bottom: var(--margin-60); }
 .ds-banner-section h2{ font-size: 2.25rem; line-height: 3rem; margin-bottom: var(--margin-54); }
 .ds-banner-section figure{ margin-bottom: var(--margin-54) }
